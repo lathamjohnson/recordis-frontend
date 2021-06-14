@@ -1,7 +1,6 @@
 # Recordis
-___
 Recordis is an application built with Django, PostgreSQL and React, utilizing the Spotify API to discovering new music. Users can login with their Spotify account and begin discovering music by entering any number of artist names. The user will then be given a never-ending stack of albums to choose from, with the option of saving albums to their Spotify account for easy listening.
-
+___
 ## Installation Instructions
 To use the application, you must clone two github repositories.
 
